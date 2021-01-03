@@ -1,4 +1,4 @@
 module.exports = {
     MongoURI:
-        'mongodb+srv://tausif:tausif104@tausif.5m5vy.mongodb.net/test?retryWrites=true&w=majority',
+        'mongodb+srv://tausif:tausif104@tausif.5m5vy.mongodb.net/passauth?retryWrites=true&w=majority',
 }
